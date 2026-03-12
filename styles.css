@@ -17,7 +17,7 @@ body {
 .cards-container {
     display: flex;
     flex-direction: row;
-    gap: 24px;
+    gap: 32px;
     flex-wrap: nowrap;
     justify-content: center;
     align-items: flex-start;
@@ -27,8 +27,8 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 380px;
-    background-color: #f2f1ed;
-    border-radius: 4px;
+    background-color: #d3d3d3;
+    border-radius: 12px;
     padding: 16px;
     width: 320px;
     flex-shrink: 0;
