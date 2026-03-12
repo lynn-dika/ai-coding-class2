@@ -26,12 +26,12 @@ body {
 .card {
     display: flex;
     flex-direction: column;
-    min-height: 380px;
+    min-height: 400px;
     background-color: #d3d3d3;
     border-radius: 12px;
     padding: 16px;
     width: 320px;
-    flex-shrink: 0;
+    flex-shrink: 0;ad
 }
 
 .card-top {
